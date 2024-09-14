@@ -8,7 +8,7 @@ Performing Reverse Engineering on a Malware(.exe)
 
 <h2>Environment and Tools Used</h2>
 
-- Conduct the reverse engineering on <b>Flare</b>a windows 10 virtual environment
+- Conduct the reverse engineering on <b>Flare</b> a windows 10 virtual environment
 - <b>IDA Pro</b> 
 - <b>Resource Hacker</b> 
 
